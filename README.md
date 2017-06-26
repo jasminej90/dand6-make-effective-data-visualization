@@ -12,7 +12,10 @@ I downloaded the dataset from [The Humanitarian Data Exchange (HDX)](https://dat
 
 ### Data Visualization (dimple.js)
 
-I used dimple.js to represent all the graphs. For my visual encodings, since I have a total of 136 countries, I chose a `horizontal bar chart` to show their scores. For the top 10 countries, I chose a `vertical bar chart` to show the country's performance in 2013 vs. 2008 (five years earlier). Finally, to represent the country performance during the period of 2007-2013, I chose a combination of `line chart` and `bubble chart` since they are the best chart types to show time-series. I used the bubble chart to represent the score for earch country in the designated year, since in this case we have a few number of points.
+I used dimple.js to represent all the graphs. For my visual encodings, 
+- Since I have a total of 136 countries, I chose a `horizontal bar chart` to show their scores.
+- For the top 10 countries, I chose a `vertical bar chart` to show the country's performance in 2013 vs. 2008 (five years earlier).
+- Finally, to represent the country performance during the period of 2007-2013, I chose a combination of `line chart` and `bubble chart` since they are the best chart types to show time-series. I used the bubble chart to represent the score for earch country in the designated year, since in this case we have a few number of points. I modified the y-axis range to start from 0.4 instead of 0.0 to get a closer and better sense of the variation for the scores over the years.
 
 ## Feedback
 include all feedback you received from others on your visualization from the first sketch to the final visualization.
