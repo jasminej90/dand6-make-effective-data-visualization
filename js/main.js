@@ -5,8 +5,8 @@
       svg.append("text")
       .attr("x", (svg[0][0].clientWidth / 2))
       .attr("y", 150)
-      .attr("text-anchor", "middle").
-      style("font-size", "20px")
+      .attr("text-anchor", "middle")
+      .style("font-size", "20px")
       .style("font-weight", "bold")
       .text("Global Gender Gap Index (GGGI) Scores - 2013");
 
@@ -26,8 +26,8 @@
       svg2.append("text")
       .attr("x", (svg2[0][0].clientWidth / 2))
       .attr("y", 30)
-      .attr("text-anchor", "middle").
-      style("font-size", "20px")
+      .attr("text-anchor", "middle")
+      .style("font-size", "20px")
       .style("font-weight", "bold")
       .text("Top 10 Countries GGGI Scores for Years 2008, 2013");
 
@@ -47,8 +47,8 @@
       svg3.append("text")
       .attr("x", (svg3[0][0].clientWidth / 2))
       .attr("y", 30)
-      .attr("text-anchor", "middle").
-      style("font-size", "20px")
+      .attr("text-anchor", "middle")
+      .style("font-size", "20px")
       .style("font-weight", "bold")
       .text("GGGI for Arab countries 2007 - 2013");
 
