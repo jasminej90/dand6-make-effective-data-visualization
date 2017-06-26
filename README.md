@@ -19,5 +19,5 @@ include all feedback you received from others on your visualization from the fir
 (To be edited after receiving feedback from Udacity coaches)
 
 ## Resources
-[1] https://data.humdata.org/dataset/global-gender-gap-index-world-economic-forum
-[2] http://dimplejs.org/examples_index.html
+- [1] https://data.humdata.org/dataset/global-gender-gap-index-world-economic-forum
+- [2] http://dimplejs.org/examples_index.html
