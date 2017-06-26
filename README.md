@@ -24,3 +24,4 @@ include all feedback you received from others on your visualization from the fir
 ## Resources
 - [1] https://data.humdata.org/dataset/global-gender-gap-index-world-economic-forum
 - [2] http://dimplejs.org/examples_index.html
+- [3] https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.legend#constructor
