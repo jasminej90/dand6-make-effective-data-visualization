@@ -25,3 +25,7 @@ include all feedback you received from others on your visualization from the fir
 - [1] https://data.humdata.org/dataset/global-gender-gap-index-world-economic-forum
 - [2] http://dimplejs.org/examples_index.html
 - [3] https://github.com/PMSI-AlignAlytics/dimple/wiki/dimple.legend#constructor
+- [4] https://startbootstrap.com/template-overviews/one-page-wonder/
+- [5] https://s-media-cache-ak0.pinimg.com/originals/a6/f3/fc/a6f3fcda088d88119918375b0359923d.jpg
+- [6] http://raseef22.com/en/2017/01/17/closing-gender-gap-arab-world-will-take-356-years/
+- [7] http://www.al-fanarmedia.org/2013/11/analyzing-the-arab-gender-gap/
