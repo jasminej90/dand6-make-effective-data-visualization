@@ -12,10 +12,10 @@
       .style("font-size", "20px")
       .style("font-weight", "bold")
       .text("Global Gender Gap Index (GGGI) Scores - 2013");
-    /*
-    Use D3 (not dimple.js) to load the CSV file
-    and pass the contents of it to a charting function
-    */
+      /*
+      Use D3 (not dimple.js) to load the CSV file
+      and pass the contents of it to a charting function
+      */
       d3.csv("data/ggi_2013_score_all.csv", function (data) {
             /*
             Dimple.js Chart construction code
@@ -42,10 +42,10 @@
       .style("font-size", "20px")
       .style("font-weight", "bold")
       .text("Top 10 Countries GGGI Scores for Years 2008, 2013");
-    /*
-    Use D3 (not dimple.js) to load the CSV file
-    and pass the contents of it to a charting function
-    */
+      /*
+      Use D3 (not dimple.js) to load the CSV file
+      and pass the contents of it to a charting function
+      */
       d3.csv("data/top_10_countries_08-13.csv", function draw(data) {
             /*
             Dimple.js Chart construction code
@@ -72,10 +72,10 @@
       .style("font-size", "20px")
       .style("font-weight", "bold")
       .text("GGGI for Arab countries 2007 - 2013");
-    /*
-    Use D3 (not dimple.js) to load the CSV file
-    and pass the contents of it to a charting function
-    */
+      /*
+      Use D3 (not dimple.js) to load the CSV file
+      and pass the contents of it to a charting function
+      */
       d3.csv("data/ggi_arab_scores_08-13.csv", function draw(data) {
             /*
             Dimple.js Chart construction code
