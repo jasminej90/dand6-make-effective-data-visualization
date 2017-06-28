@@ -92,9 +92,11 @@
             Dimple.js Chart construction code
             */
       	var myChart = new dimple.chart(svg3, data);
-      	myChart.addCategoryAxis("x", "variable"); 
+      	x = myChart.addCategoryAxis("x", "variable");
+            x.title = "";
       	y = myChart.addMeasureAxis("y", "value");
             y.tickFormat = ',.3f';
+            y.title = 'score';
       	y.overrideMin = 0.440
       	myChart.addSeries("Country", dimple.plot.bubble);
       	myChart.addSeries("Country", dimple.plot.line);
@@ -119,5 +121,3 @@
             ]; 
             myChart.draw();
     });
-
-
