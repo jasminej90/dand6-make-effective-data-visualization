@@ -23,11 +23,15 @@ I used dimple.js to represent all the graphs. For my chart types and visual enco
 
 I re-desinged my HTML page to include a title and an introductory paragraph that explains to the reader the purpose of the graphs they're about to see. I answered the question of what's GGGI mean, and whether a low score is good or bad. I also made the story focuses more on the Arab world performance in terms of the Gender Gap, and so I replaced the second graph I was showing earlier for the top 10 countries with the performance and rankings of the Arab world with respect to the GGGI. I also updated my dataset to show the GGGI scores for 2016 from the World Economic Forum Report.
 
-> colour coding - I've made a suggestion above re: using colour to represent continent. At the moment you are using the dimple default colours which can be slightly confusing across multiple charts. For example blue represents 2013 and Kuwait and Red represents 2008 and UAE.
+> Colour coding - I've made a suggestion above re: using colour to represent continent. At the moment you are using the dimple default colours which can be slightly confusing across multiple charts. For example blue represents 2013 and Kuwait and Red represents 2008 and UAE.
 
 I changed the dimple default colors to multi-hue sequential colors from colorbrewer website, where darker colors represent countries with higher GGGI score (good; more equality) and lighter colors represent countries with lower GGGI score (bad; inequality).
 
-> feedback #3
+> Labelling - on the whole your labelling is looking good but you need to make sure you don't use generic names such as "variable" and "value" as they don't mean much to the reader.
+
+I modifed the y-axis title for the last chart to be 'score' instead of 'value', and for the x-axis I removed the title as it's clear that it's showing years.
+
+_FYI, I posted a question on [Udacity Discussion Forum](https://discussions.udacity.com/t/please-give-me-feedback-on-data-visualization-p6-global-gender-gap-index-dataset/290572), but still got no feedback._
 
 ## Resources
 - [1] https://data.humdata.org/dataset/global-gender-gap-index-world-economic-forum
