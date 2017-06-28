@@ -87,7 +87,7 @@
       Use D3 (not dimple.js) to load the CSV file
       and pass the contents of it to a charting function
       */
-      d3.csv("data/gggi_arab_scores_2008-2013.csv", function draw(data) {
+      d3.csv("data/gggi_arab_scores_2007-2013.csv", function draw(data) {
             /*
             Dimple.js Chart construction code
             */
