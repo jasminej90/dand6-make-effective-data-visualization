@@ -1,0 +1,145 @@
+,Country,2016 score,rank,continent
+1,Iceland,0.874,1,Europe
+2,Finland,0.845,2,Europe
+3,Norway,0.842,3,Europe
+4,Sweden,0.815,4,Europe
+5,Rwanda,0.8,5,Africa
+6,Ireland,0.797,6,Europe
+7,Philippines,0.786,7,Asia
+8,Slovenia,0.786,8,Europe
+9,New Zealand,0.781,9,Australia
+10,Nicaragua,0.78,10,North America
+11,Switzerland,0.776,11,Europe
+12,Burundi,0.768,12,Africa
+13,Germany,0.766,13,Europe
+14,Namibia,0.765,14,Africa
+15,South Africa,0.764,15,Africa
+16,Netherlands,0.756,16,Europe
+17,France,0.755,17,Europe
+18,Latvia,0.755,18,Europe
+19,Denmark,0.754,19,Europe
+20,United Kingdom,0.752,20,Europe
+21,Mozambique,0.75,21,Africa
+22,Estonia,0.747,22,Europe
+23,Bolivia,0.746,23,South America
+24,Belgium,0.745,24,Europe
+25,Lithuania,0.744,25,Europe
+26,Moldova,0.741,26,Europe
+27,Cuba,0.74,27,North America
+28,Barbados,0.739,28,North America
+29,Spain,0.738,29,Europe
+30,Belarus,0.737,30,Europe
+31,Portugal,0.737,31,Europe
+32,Costa Rica,0.736,32,North America
+33,Argentina,0.735,33,South America
+34,Luxembourg,0.734,34,Europe
+35,Canada,0.731,35,North America
+36,Cape Verde,0.729,36,Africa
+37,Bahamas,0.729,37,North America
+38,Poland,0.727,38,Europe
+39,Colombia,0.727,39,South America
+40,Ecuador,0.726,40,South America
+41,Bulgaria,0.726,41,Europe
+42,Jamaica,0.724,42,North America
+43,Lao PDR,0.724,43,Asia
+44,Trinidad and Tobago,0.723,44,North America
+45,United States,0.722,45,North America
+46,Australia,0.721,46,Australia
+47,Panama,0.721,47,North America
+48,Serbia,0.72,48,Europe
+49,Israel,0.719,49,Asia
+50,Italy,0.719,50,Europe
+51,Kazakhstan,0.718,51,Asia
+52,Austria,0.716,52,Europe
+53,Tanzania,0.716,53,Africa
+54,Botswana,0.715,54,Africa
+55,Singapore,0.712,55,Asia
+56,Zimbabwe,0.71,56,Africa
+57,Lesotho,0.706,57,Africa
+58,Mongolia,0.705,58,Asia
+59,Ghana,0.705,59,Africa
+60,Madagascar,0.704,60,Africa
+61,Uganda,0.704,61,Africa
+62,Albania,0.704,62,Europe
+63,Kenya,0.702,63,Africa
+64,El Salvador,0.702,64,North America
+65,Vietnam,0.7,65,Asia
+66,Mexico,0.7,66,North America
+67,Malawi,0.7,67,Africa
+68,Croatia,0.7,68,Europe
+69,Ukraine,0.7,69,Europe
+70,Chile,0.699,70,South America
+71,Thailand,0.699,71,Asia
+72,Bangladesh,0.698,72,Asia
+73,"Macedonia, FYR",0.696,73,Europe
+74,Venezuela,0.694,74,South America
+75,Russian Federation,0.691,75,Europe
+76,Romania,0.69,76,Europe
+77,Czech Republic,0.69,77,Europe
+78,Honduras,0.69,78,North America
+79,Brazil,0.687,79,South America
+80,Peru,0.687,80,South America
+81,Kyrgyz Republic,0.687,81,Asia
+82,Senegal,0.685,82,Africa
+83,Bosnia and Herzegovina,0.685,83,Europe
+84,Cyprus,0.684,84,Asia
+85,Cameroon,0.684,85,Africa
+86,Azerbaijan,0.684,86,Asia
+87,India,0.683,87,Asia
+88,Indonesia,0.682,88,Asia
+89,Montenegro,0.681,89,Europe
+90,Georgia,0.681,90,Asia
+91,Uruguay,0.681,91,South America
+92,Greece,0.68,92,Europe
+93,Tajikistan,0.679,93,Asia
+94,Slovak Republic,0.679,94,Europe
+95,Suriname,0.679,95,South America
+96,Paraguay,0.676,96,South America
+97,Dominican Republic,0.676,97,North America
+98,Belize,0.676,98,North America
+99,China,0.676,99,Asia
+100,Sri Lanka,0.673,100,Asia
+101,Hungary,0.669,101,Europe
+102,Armenia,0.669,102,Asia
+103,Brunei Darussalam,0.669,103,Asia
+104,"Gambia, The",0.667,104,Africa
+105,Guatemala,0.666,105,North America
+106,Malaysia,0.666,106,Asia
+107,Swaziland,0.665,107,Africa
+108,Malta,0.664,108,Europe
+109,Ethiopia,0.662,109,Africa
+110,Nepal,0.661,110,Asia
+111,Japan,0.66,111,Asia
+112,Cambodia,0.658,112,Asia
+113,Mauritius,0.652,113,Africa
+114,Liberia,0.652,114,Africa
+115,Maldives,0.65,115,Asia
+116,"Korea, Rep.",0.649,116,Asia
+117,Angola,0.643,117,Africa
+118,Nigeria,0.643,118,Africa
+119,Qatar,0.643,119,Asia
+120,Algeria,0.642,120,Africa
+121,Bhutan,0.642,121,Asia
+122,Guinea,0.64,122,Africa
+123,Burkina Faso,0.64,123,Africa
+124,United Arab Emirates,0.639,124,Asia
+125,Timor-Leste,0.637,125,Asia
+126,Tunisia,0.636,126,Africa
+127,Benin,0.636,127,Africa
+128,Kuwait,0.624,128,Asia
+129,Mauritania,0.624,129,Africa
+130,Turkey,0.623,130,Asia
+131,Bahrain,0.615,131,Asia
+132,Egypt,0.614,132,Africa
+133,Oman,0.612,133,Asia
+134,Jordan,0.603,134,Asia
+135,Lebanon,0.598,135,Asia
+136,Côte d'Ivoire,0.597,136,Africa
+137,Morocco,0.597,137,Africa
+138,Mali,0.591,138,Africa
+139,"Iran, Islamic Rep.",0.587,139,Asia
+140,Chad,0.587,140,Africa
+141,Saudi Arabia,0.583,141,Asia
+142,Syria,0.567,142,Asia
+143,Pakistan,0.556,143,Asia
+144,Yemen,0.516,144,Asia
