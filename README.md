@@ -41,3 +41,4 @@ _FYI, I posted a question on [Udacity Discussion Forum](https://discussions.udac
 - [4] https://startbootstrap.com/template-overviews/one-page-wonder/
 - [5] http://raseef22.com/en/2017/01/17/closing-gender-gap-arab-world-will-take-356-years/
 - [6] http://www.al-fanarmedia.org/2013/11/analyzing-the-arab-gender-gap/
+- [7] http://dimplejs.org/advanced_examples_viewer.html?id=advanced_interactive_legends
